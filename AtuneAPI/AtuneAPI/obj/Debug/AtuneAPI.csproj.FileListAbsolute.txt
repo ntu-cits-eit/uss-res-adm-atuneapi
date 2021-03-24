@@ -1,0 +1,29 @@
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.exe.config
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.exe.manifest
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.application
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.exe
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.pdb
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Debug\AtuneAPI.exe.manifest
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Debug\AtuneAPI.application
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Debug\AtuneAPI.exe
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Debug\AtuneAPI.pdb
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.exe.config
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.exe.manifest
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.application
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.exe
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\AtuneAPI.pdb
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\Newtonsoft.Json.dll
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\Newtonsoft.Json.xml
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Debug\AtuneAPI.exe.manifest
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Debug\AtuneAPI.application
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Debug\AtuneAPI.exe
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Debug\AtuneAPI.pdb
+D:\20201012 Laptop\D\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Debug\AtuneAPI.csprojResolveAssemblyReference.cache

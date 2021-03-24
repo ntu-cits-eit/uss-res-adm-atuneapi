@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AtuneAPI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AtuneAPI_PersonWebService_UserWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://arfmsdev.ntu.edu.sg/tickatlab/WebServices/User/UserWebService.asmx</Value>
+    </Setting>
+    <Setting Name="AtuneAPI_PersonWebServiceUAT_UserWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://arfmsuat.ntu.edu.sg/tickatlab_test/WebServices/User/UserWebService.asmx</Value>
+    </Setting>
+    <Setting Name="AtuneAPI_PersonWebServicePRO_UserWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://arfms.ntu.edu.sg/tickatlab/WebServices/User/UserWebService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

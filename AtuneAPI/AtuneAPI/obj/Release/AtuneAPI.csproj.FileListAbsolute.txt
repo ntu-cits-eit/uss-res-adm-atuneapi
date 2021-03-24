@@ -1,0 +1,17 @@
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\AtuneAPI.exe.config
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\AtuneAPI.exe.manifest
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\AtuneAPI.application
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\AtuneAPI.exe
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\AtuneAPI.XmlSerializers.dll
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\AtuneAPI.pdb
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\Newtonsoft.Json.dll
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\System.Net.Http.Formatting.dll
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\Newtonsoft.Json.xml
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\bin\Release\System.Net.Http.Formatting.xml
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Release\AtuneAPI.exe.manifest
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Release\AtuneAPI.application
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Release\AtuneAPI.exe
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Release\AtuneAPI.pdb
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Release\AtuneAPI.XmlSerializers.dll
+D:\Atune\API Console App\AtuneAPI\AtuneAPI\obj\Release\AtuneAPI.csprojResolveAssemblyReference.cache
